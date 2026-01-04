@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antoine Gualy</h1>
 <h3 align="center">A passionate computer science student learn software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antoinegualy&label=Profile%20views&color=0e75b6&style=flat" alt="antoinegualy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoinegualy" alt="antoinegualy" /></a> </p>
 
 - 🔭 I’m currently working on [MVP Money-pot](https://github.com/BenjiminKicks/Money-Pot.git)
 
