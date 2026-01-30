@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gualyantoine@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KjhqLSHqgEjFg9FeT92u0rZIGLDo-I46teGGWxj1JQg/edit?usp=share_link](https://docs.google.com/document/d/1KjhqLSHqgEjFg9FeT92u0rZIGLDo-I46teGGWxj1JQg/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1KjhqLSHqgEjFg9FeT92u0rZIGLDo-I46teGGWxj1JQg/edit?usp=share_link](https://docs.google.com/document/d/1KjhqLSHqgEjFg9FeT92u0rZIGLDo-I46teGGWxj1JQg/edit?usp=sharing)
 
 - ⚡ Fun fact **chess elo 900**
 
